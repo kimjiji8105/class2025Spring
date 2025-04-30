@@ -60,6 +60,6 @@ KoBERT 모델은 Precision과 Recall의 균형이 우수하며,
 
 ## 참고 자료
 
-- KoBERT: https://github.com/SKTBrain/KoBERT  
-- korean_unsmile_dataset: https://github.com/naver/nlp-data  
-- hatescore-korean-hate-speech: https://huggingface.co/datasets/kocohub/hatescore-korean-hate-speech
+- KoBERT: https://huggingface.co/monologg/kobert
+- korean_unsmile_dataset: https://github.com/smilegate-ai/korean_unsmile_dataset.git
+- hatescore-korean-hate-speech: https://github.com/sgunderscore/hatescore-korean-hate-speech.git
